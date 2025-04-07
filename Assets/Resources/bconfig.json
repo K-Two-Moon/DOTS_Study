@@ -1,0 +1,5 @@
+[
+        {"bType":"tower","name":"回血塔","hp":100,"size":0.5},
+        {"bType":"barrack","name":"兵工厂","hp":100,"size":0.5},
+        {"bType":"maincity","name":"主城","hp":100,"size":0.5}
+]
